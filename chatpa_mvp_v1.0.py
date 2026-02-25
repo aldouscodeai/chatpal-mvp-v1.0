@@ -1,4 +1,4 @@
-# the first code is the error One so I # commented it out, scroll down to see corrected version one (2nd codes)
+# the first code is the error One so I  commen-ted it out, scroll down to see corrected version one (2nd codes)
 
 # import json
 
