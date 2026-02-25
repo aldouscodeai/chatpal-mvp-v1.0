@@ -18,4 +18,4 @@ Chatpal: Booking confirmed for x-ray at rs 700
 - JSON
 - Loop-based conversation engine
 
-This is an early backend prototype of a SaaS AI booking assistant.
+This is an early backend prototype of a SaaS AI booking assistant for small businesses like clinics, salons, gyms, coaching centres or restaurants.
